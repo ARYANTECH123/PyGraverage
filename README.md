@@ -1,6 +1,8 @@
 # Python Graverage
 A interpreter for the Graverage language/automation in Python
 
+!WARNING This project does not comply with standard graverage and was mostly a toy. To play with Graverage more properly, check out GraverageJS. 
+
 ## What is Graverage?
 Graverage is a 2D automation that mutates point positions on the basis of associations with other points.
 
